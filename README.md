@@ -80,7 +80,7 @@ main(): A função principal que orquestra o fluxo do jogo, chamando as outras f
 - ✅ Problema 4: Em busca do tesouro perdido
 
 ## 🎯 Principais Aprendizados
-Um dos meus principais aprendizados na Unidade 1 foi aprender a organizar melhor meus códigos, já que como eram várias listas e o projeto  que eu estava fazendo em vários momentos do meu dia, eu tinha que comentar nos códigos para que eu pudesse entender o que estava fazendo antes. Para mim revisitar os conceitos básicos foi muito importante principalmente a parte de funções e vetores, que acabou me ajudando até em outras matérias, além de ter uma oportunidade de aprender uma nova linguagem de programação.
+Um dos meus principais aprendizados na Unidade 1 foi aprender a organizar melhor meus códigos, já que como eram várias listas e o projeto  que eu estava fazendo em vários momentos do meu dia, eu tinha que comentar nos códigos para que eu pudesse entender o que estava fazendo antes. Para mim revisitar os conceitos básicos foi muito importante principalmente a parte de arrays, a implementação de lógicas de verificação (vitória e empate), a gestão básica da entrada do usuário , que acabaram me ajudando até em outras matérias, além de ter uma oportunidade de aprender uma nova linguagem de programação.
 
 ## 🔧 Ambiente de Desenvolvimento
 **Ambiente de desenvolvimento/execução:** Google Colab, que forneceu um ambiente baseado em Linux com terminal acessível para compilação e execução do código, além de um editor de texto para escrever o código C.
