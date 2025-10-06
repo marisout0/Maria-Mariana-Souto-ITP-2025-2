@@ -40,6 +40,7 @@ jogadaIA(): Implementa a lógica básica da jogada da IA.
 main(): A função principal que orquestra o fluxo do jogo, chamando as outras funções.
 
 ## 📚 Listas de Exercícios
+**Observação:** Acabei sem querer trocando o nome de 2 arquivos, o arquivo da lista 5 na verdade remete aos exercícios da lista 6 e o arquivo da lista 6 remete aos exercícios da lista 5
 
 ### Semana 2 - Variáveis, Tipos e Operadores:
 - ✅ Problema 1: Calculadora de IMC
@@ -82,6 +83,6 @@ main(): A função principal que orquestra o fluxo do jogo, chamando as outras f
 Um dos meus principais aprendizados na Unidade 1 foi aprender a organizar melhor meus códigos, já que como eram várias listas e o projeto  que eu estava fazendo em vários momentos do meu dia, eu tinha que comentar nos códigos para que eu pudesse entender o que estava fazendo antes. Para mim revisitar os conceitos básicos foi muito importante principalmente a parte de funções e vetores, que acabou me ajudando até em outras matérias, além de ter uma oportunidade de aprender uma nova linguagem de programação.
 
 ## 🔧 Ambiente de Desenvolvimento
-- **SO**: Windows
-- **Compilador**: GCC versão 11.4
-- **Editor**: Google colab
+**Ambiente de desenvolvimento/execução:** Google Colab, que forneceu um ambiente baseado em Linux com terminal acessível para compilação e execução do código, além de um editor de texto para escrever o código C.
+**Compilador:** GCC (GNU Compiler Collection), utilizado para transformar o código-fonte em C em um arquivo executável.
+**Editor de texto:** O editor de código integrado do Google Colab.
