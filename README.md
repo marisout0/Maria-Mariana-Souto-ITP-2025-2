@@ -13,7 +13,7 @@
 
 **Descrição**: o projeto é um jogo da velha interativo (humano vs. IA básica) e aplica os conceitos fundamentais de programação em C (estruturas de dados, controle de fluxo, funções).
 
-**Repositório**: [Link para repositório público]
+**Repositório**: https://github.com/marisout0/Maria-Mariana-Souto-ITP-2025-2
 
 **Vídeo de Demonstração**: https://youtu.be/djTUS18Z_1I
 
